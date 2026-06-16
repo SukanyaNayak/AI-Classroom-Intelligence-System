@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -7,68 +7,33 @@ __pycache__/
 classroom_env/
 
 # Distribution / packaging
-.Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
 *.egg-info/
-.installed.cfg
-*.egg
+.eggs/
 
-# PyInstaller
-*.manifest
-*.spec
+# Logs and databases
+*.log
+*.sqlite3
+*.db
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*,cover
-.hypothesis/
-.pytest_cache/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# IDE / editor files
+# VS Code settings
 .vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
 
-# OS generated files
+# macOS
 .DS_Store
+
+# Windows thumbnail cache
 Thumbs.db
 
-# Data and logs
-data/engagement_log.csv
-data/recordings/
+# Python bytecode cache directories
+.Python
 
-# Model weights and large binaries
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+
+# Model weights
 *.pt
-*.pth
-
-# Local secret/config overrides
-.env
-.env.*
-config.py
-
-# Misc
-*.log
