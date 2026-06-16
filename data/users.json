@@ -1,0 +1,37 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "created": "2026-06-05 12:46:27.685709"
+  },
+  "Sukanya Nayak": {
+    "password": "39a2ce2808796bffa21a2d090f5988257b304fe0c2cd4cdcaf7aa77b4546fe4d",
+    "role": "teacher",
+    "created": "2026-06-05 12:47:31.764689"
+  },
+  "Syamm007 ": {
+    "password": "1db5ed46a2178739435d8627c8dcd3a01774204c30a257676c4e4914eaa13ed9",
+    "role": "teacher",
+    "created": "2026-06-14 20:52:11.530778"
+  },
+  "F1_@sumitra": {
+    "password": "1db5ed46a2178739435d8627c8dcd3a01774204c30a257676c4e4914eaa13ed9",
+    "role": "teacher",
+    "created": "2026-06-14 20:56:33.527546"
+  },
+  "Anki ": {
+    "password": "1db5ed46a2178739435d8627c8dcd3a01774204c30a257676c4e4914eaa13ed9",
+    "role": "teacher",
+    "created": "2026-06-14 20:57:36.362442"
+  },
+  "chandan": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "teacher",
+    "created": "2026-06-14 20:57:59.577089"
+  },
+  "Ami": {
+    "password": "17562643f0ffd1aa5727c8c723152e534b32501e01229bc39019ad741f81a84e",
+    "role": "teacher",
+    "created": "2026-06-14 21:00:29.512377"
+  }
+}
